@@ -1,0 +1,8 @@
+baseURL = "https://calgarygo.org/"
+languageCode = "en-us"
+title = "Calgary Go"
+theme = "ananke"
+
+[params]
+  github = "https://github.com/calgarygo"
+  twitter = "https://twitter.com/calgarygo"
